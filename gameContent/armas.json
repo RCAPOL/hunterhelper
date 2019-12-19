@@ -1,0 +1,998 @@
+{
+    "ferrolho": {
+        "223": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "243": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "270": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "3006": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "300": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "308": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "6555": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "76254": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "764": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "303": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "98": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Stutzen3006": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "340": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "articulado": {
+        "30R": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "9374": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "7": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "alavanca": {
+        "3006": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "3030": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "405": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "4570": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "17": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "escopeta": {
+        "BlaserF3": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "20": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "12Unico": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "10": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "12Bomba": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "12SxS": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "revolver": {
+        "308": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "454": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "45": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "357": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "44": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "pistola": {
+        "10mm": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "22": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "arco": {
+        "Parker": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Pulsar": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "RedDragon": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Snakebite": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Inuit": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Longo": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Recurvo": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "RecurvoPesado": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "besta": {
+        "Revolver": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Tracao": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "TenPoint": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "muzzleloader": {
+        "CapLock": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Inline": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "super": {
+        "Scout": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "Drilling": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "semi": {
+        "22": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "223": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+
+
+
+
+
+    "rifle": {
+        "7": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    },
+    "22": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Calibre": "",
+        "PrecoGM": "",
+        "PrecoEM": "",
+        "Scope": "",
+        "UniqueScope": "",
+        "Variantes": "",
+        "Municao": [
+            "",
+            ""
+        ]
+    },
+    "R8": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Calibre": "",
+        "PrecoGM": "",
+        "PrecoEM": "",
+        "Scope": "",
+        "UniqueScope": "",
+        "Variantes": "",
+        "Municao": [
+            "",
+            ""
+        ]
+    },
+
+
+
+    "nschutz": {
+        "308": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "857": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        },
+        "9362": {
+            "Nome": {
+                "PT": "",
+                "EN": ""
+            },
+            "Calibre": "",
+            "PrecoGM": "",
+            "PrecoEM": "",
+            "Scope": "",
+            "UniqueScope": "",
+            "Variantes": "",
+            "Municao": [
+                "",
+                ""
+            ]
+        }
+    }
+}

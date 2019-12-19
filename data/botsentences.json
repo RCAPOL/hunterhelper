@@ -1,0 +1,12 @@
+{
+    "error": {
+        "unspectedError": "Ops, parece que algo deu errado!"
+    },
+    "dev": {
+        "stillNeedToComplete": "Desculpe, mas esta função está atualmente em desenvolvimento!\nAssim que o @RCPOLSKI deixar de ser preguiçoso, tenho certeza que estarei aqui para ajuda-lo!\n\nSaiba como me pedir ajuda digitando !ajuda no chat!"
+    },
+    "adminEvents": {
+        "onShutdown": "Encerrando tarefas...\nConcluíndo armazenamento dos dados...\nDesligando o bot...\n\nEncerrando agora!",
+        "onLackOfPermissions": "Você não tem direitos suficientes para me dar esta ordem!"
+    }
+}

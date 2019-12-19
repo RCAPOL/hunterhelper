@@ -1,0 +1,1318 @@
+{
+    "alce": {
+        "Nome": {
+            "PT": "Alce",
+            "EN": "Moose"
+        },
+        "Reserva": "Redfeather Falls, Hemmeldal e Whiterime Ridge",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "Urina e chamariz de Alce",
+        "Orgaos": "https://vignette.wikia.nocookie.net/thehuntergame/images/2/2b/Moose_organs.png/revision/latest/scale-to-width-down/400?cb=20160620074907",
+        "CalibresPermitidos": ["Flechas", ".50 esférica", ".50 cônica", ".45-70", ".405", ".340", ".300", "9.3x62", "9.3x74R", "7mm", "30R", "8x57 IS", ".303", ".308", ".30-06", "7.62x54", "7x64", "7-08HP", ".50 líder", ".454", ".45", "10GA Slug", "12GA Slug", "e", "16GA Slug"],
+        "SexoCSS": "Não",
+        "CSS": "",
+        "TipoDoPremio": "Galhada",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "banteng": {
+        "Nome": {
+            "PT": "Banteng",
+            "EN": "Banteng"
+        },
+        "Reserva": "Piccabeen Bay",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "Não há chamarizes para este animal",
+        "Orgaos": "",
+        "CalibresPermitidos": ["Flechas", ".50 cônica", ".45-70", ".405", ".340", ".300", "9.3x62", "9.3x74R", "7mm", "8x57 IS", ".50 líder", "e", ".454"],
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "bisao": {
+        "Nome": {
+            "PT": "Bisão",
+            "EN": "Bison"
+        },
+        "Reserva": "Whiterime Ridge",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "Não há chamarizes para este animal",
+        "Orgaos": "",
+        "CalibresPermitidos": ["Flechas", ".50 cônica", ".45-70", ".405", ".340", ".300", ".9.3x62", "9.3x74R", "7mm", "8x57 IS", ".50 líder", "e", ".454"],
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "bufalo": {
+        "Nome": {
+            "PT": "Búfalo-Asiático",
+            "EN": "Water Buffalo"
+        },
+        "Reserva": "Piccabeen Bay",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "Não há chamarizes para este animal",
+        "Orgaos": "",
+        "CalibresPermitidos": ["Flechas", ".50 cônica", ".45-70", ".405", ".340", "9.3x74R", ".50 líder", "e", ".454"],
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "Chifres",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "Cabra": {
+        "Nome": {
+            "PT": "Cabra-Selvagem",
+            "EN": "Feral Goat"
+        },
+        "Reserva": "Bushrangers Run",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "canguru": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "Bushrangers Run",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "carneiroselvagem": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "carneirodedall": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "coelhocaudadealgodao": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "Bushrangers Run",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "coelhoeuropeu": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "coiote": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "corça": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "elkroosevelt": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "elkdasmontanhas": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "faisao": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "frisada": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "gansomagpie": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "gansodocanada": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "lavali": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "lagopodebranco": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LagopodeCaudaBranca": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LagopodeEscoces": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LebreAmericana": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LinceEuroasiatico": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LincePardo": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "Lobisomem": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "LoboCinzento": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "MarrecaArrebio": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "PatoPretoAmericano": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "PatoReal": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "Peru": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "PorcoMonteiro": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "Bushrangers Run",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "RaposaVermelha": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "Bushrangers Run",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "RaposaDoArtico": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "Rena": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "UrsoCinzento": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "UrsoNegro": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "UrsoPardo": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "UrsoPolar": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoCaudaBranca": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoCaudaPreta": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoMula": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoRusa": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoSambar": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoSitka": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "VeadoVermelho": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    },
+    "IbexDosAlpes": {
+        "Nome": {
+            "PT": "",
+            "EN": ""
+        },
+        "Reserva": "",
+        "Peso": "",
+        "Pelos": "",
+        "MaxPontos": "",
+        "Chamarizes": "",
+        "Orgaos": "",
+        "CalibresPermitidos": "",
+        "SexoCSS": "",
+        "CSS": "",
+        "TipoDoPremio": "",
+        "Missoes": {
+            "Quantidade": ""
+
+        },
+        "Fotos": {
+            "Macho": {
+
+            },
+            "Femea": {
+                
+            }
+        }
+    }
+}

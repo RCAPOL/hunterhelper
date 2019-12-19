@@ -1,0 +1,317 @@
+{
+    "whitehart": {
+        "Cor": "#006400",
+        "Nome":"Whitehart Island",
+        "Descricao": "Caçe o ilustre Cauda-Branca e o impressionante Elk Roosevelt sob a mata densa! Baseado na flora do Estado de Washington",
+        "Local": "Washington, EUA",
+        "Exclusivo": "Não",
+        "MapaAnimais": "https://i.imgur.com/uXFrZX2.png",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/a/a5/Whitehart_icon.png/revision/latest?cb=20160304145823",
+        "Estacao": "Verão",
+        "KMQ": "8.2",
+        "Acres": "2026",
+        "AnimaisNaReserva": [
+            "Veado Cauda-Branca",
+            "Veado Cauda-Preta",
+            "Elk Roosevelt",
+            "Coiote",
+            "Lince Pardo",
+            "Peru"
+        ],
+        "Mortes": [
+            "Quedas"
+        ]
+    },
+
+    "loggers": {
+        "Cor": "#32CD32",
+        "Nome":"Logger's Point",
+        "Descricao": "Logger's Point é a peninsula sudoeste localizada ao Leste de Whitehart Island. Em comparação com Whitehart, Logger's Point apresenta campos abertos e floridos misturado ao terreno onduloso, assim como objetos feitos a mão e uma flora única.",
+        "Local": "Pacífico Noroeste, EUA",
+        "Exclusivo": "Não",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/8/89/LPAnimals.png/revision/latest/scale-to-width-down/800?cb=20170418095216",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/0/04/Lp_icon.png/revision/latest?cb=20160304150953",
+        "Estacao": "Verão",
+        "KMQ": "6.9",
+        "Acres": "1705",
+        "AnimaisNaReserva": [
+            "Veado Mula",
+            "Veado Cauda-Branca",
+            "Porco Monteiro",
+            "Coiote",
+            "Lince Pardo",
+            "Faisão",
+            "Coelho Cauda-de-Algodão"
+        ],
+        "Mortes": [
+            "Porco-Monteiro",
+            "Quedas"
+        ]
+    },
+
+    "settler": {
+        "Cor": "#008000",
+        "Nome":"Settler Creeks",
+        "Descricao": "Deslumbre do ambiente rustico de Settler Creek enquanto pisa sem querer em coelhos cauda-de-algodão em meio a densa floresta",
+        "Local": "Vales do Norte, EUA",
+        "Exclusivo": "Não",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/8/8e/SCAnimals.png/revision/latest/scale-to-width-down/700?cb=20170418095506",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/0/08/Settler_Creeks_EW_icon.png/revision/latest?cb=20160304150122",
+        "Estacao": "Verão",
+        "KMQ": "6.9",
+        "Acres": "1705",
+        "AnimaisNaReserva": [
+            "Elk Roosevelt",
+            "Urso Preto",
+            "Porco Monteiro",
+            "Veado Cauda-Branca",
+            "Lince Pardo",
+            "Peru",
+            "Coelho Cauda-de-Algodão"
+        ],
+        "Mortes": [
+            "Quedas",
+            "Urso",
+            "Porco-Monteiro"
+        ]
+    },
+
+    "redfeather": {
+        "Cor": "#6B8E23",
+        "Nome":"Redfeather Falls",
+        "Descricao": "Redfeather Falls é famosa pelo seu vasto pântano infestado de Alces e Ursos",
+        "Local": "Columbia Britânica, Canada",
+        "Exclusivo": "Não",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/7/77/RFFAnimals.png/revision/latest/scale-to-width-down/700?cb=20170418095729",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/b/bc/RFF_icon2.png/revision/latest?cb=20160304150856",
+        "Estacao": "Verão",
+        "KMQ": "15.9",
+        "Acres": "3929",
+        "AnimaisNaReserva": [
+            "Alce",
+            "Elk Roosevelt",
+            "Urso Preto",
+            "Veado Cauda-Branca",
+            "Veado Cauda-Preta"
+        ],
+        "Mortes": [
+            "Alce",
+            "Urso",
+            "Quedas"
+        ]
+    },
+
+    "hirschfelden": {
+        "Cor": "#FFA500",
+        "Nome":"Hirschfelden",
+        "Descricao": "Sempre se soube... A Alemanha deixa qualquer um de queixo caido com suas florestas de sangue primavera",
+        "Local": "Noroeste Europeu, Alemanha",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/7/78/HFAnimals.png/revision/latest/scale-to-width-down/800?cb=20170418094245",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/f/f0/Hirschfelden_icon.png/revision/latest?cb=20160304150122",
+        "Estacao": "Outono",
+        "KMQ": "8.8",
+        "Acres": "2175",
+        "AnimaisNaReserva": [
+            "Veado Vermelho",
+            "Raposa Vermelha",
+            "Javali",
+            "Corça",
+            "Ganso Canada",
+            "Faisa"
+        ],
+        "Mortes": [
+            "Javali"
+        ]
+    },
+
+    "hemmedal": {
+        "Cor": "#F5F5F5",
+        "Nome":"Hemmedal",
+        "Descricao": "O branco das colinas dança em degradê com o verde vivo da mãe natureza, Hemmeldal traz o frio escandinávio infestado de perigos!",
+        "Local": "Tundra, Suécia",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/0/0e/HDAnimals.png/revision/latest/scale-to-width-down/800?cb=20160916190534",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/f/ff/Hemmeldal_Icon.png/revision/latest?cb=20160304150123",
+        "Estacao": "Inverno",
+        "KMQ": "9.5",
+        "Acres": "2347",
+        "AnimaisNaReserva": [
+            "Alce",
+            "Rena",
+            "Corça",
+            "Urso Pardo",
+            "Raposa Vermelha",
+            "Lince Euroasiático",
+            "Lagópode Escocês"
+        ],
+        "Mortes": [
+            "Alce",
+            "Quedas",
+            "Urso"
+        ]
+    },
+
+    "rougarou": {
+        "Cor": "#008000",
+        "Nome":"Rougarou Bayou",
+        "Descricao": "Os pântanos do estado de Luisiania realmente surpreendem pelo tamanho de sua fauna e flora",
+        "Local": "Estado de Luisiania, EUA",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/b/b8/RBAnimals.png/revision/latest/scale-to-width-down/800?cb=20170418093934",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/c/c9/Rougarou_Icon.png/revision/latest?cb=20160304150123",
+        "Estacao": "Verão",
+        "KMQ": "7.2",
+        "Acres": "1779",
+        "AnimaisNaReserva": [
+            "Urso Preto",
+            "Porco Monteiro",
+            "Lince Pardo",
+            "Veado Cauda-Branca",
+            "Pato Real",
+            "Pato Preto Americano",
+            "Frisada",
+            "Marreca Arrebio"
+        ],
+        "Mortes": [
+            "Urso",
+            "Porco-Monteiro"
+        ]
+    },
+
+    "valdesbois": {
+        "Cor": "#32CD32",
+        "Nome":"Val-des-Bois",
+        "Descricao": "Parfait! Diriam os franceses ao apreciarem a vista do topo da montanha francesa de Val-des-Bois",
+        "Local": "Alpes Franceses, França",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/3/3d/VDBAnimals.png/revision/latest/scale-to-width-down/700?cb=20160916171046",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/6/66/Val-des-bois_icon.png/revision/latest?cb=20160304150123",
+        "Estacao": "Verão",
+        "KMQ": "8.8",
+        "Acres": "2175",
+        "AnimaisNaReserva": [
+            "Urso Pardo",
+            "Veado Vermelho",
+            "Ibex dos Alpes",
+            "Corça",
+            "Raposa Vermelha",
+            "Coelho Europeu",
+            "Lagópode Branco"
+        ],
+        "Mortes": [
+            "Quedas",
+            "Urso"
+        ]
+    },
+
+    "bushrangers": {
+        "Cor": "#F4A460",
+        "Nome":"Bushrangers Run",
+        "Descricao": "No calor intenso do deserto austro-asiático, pode-se observar uma máquina de correr feita pela natureza, os Cangurus Vermelhos",
+        "Local": "Deserto Asiático, Australia",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/9/93/BRR_Animals.png/revision/latest/scale-to-width-down/500?cb=20170501081034",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/2/22/Bushrangers_run_icon.png/revision/latest?cb=20160304150124",
+        "Estacao": "Verão",
+        "KMQ": "6.9",
+        "Acres": "1705",
+        "AnimaisNaReserva": [
+            "Porco Monteiro",
+            "Canguru Vermelho",
+            "Cabra Selvagem",
+            "Raposa Vermelha",
+            "Coelho Europeu"
+        ],
+        "Mortes": [
+            "Hipertermia",
+            "Sede",
+            "Porco-Monteiro",
+            "Quedas"
+        ]
+    },
+
+    "whiterime": {
+        "Cor": "#FFFAFA",
+        "Nome":"Whiterime Ridge",
+        "Descricao": "Bem vindo ao frio, não aquele do sul do Brasil, mas sim ao inferno negativo... Whiterime pinta seus animais na vista do caçador com suas vastidões branquiças",
+        "Local": "Alaska, EUA",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/0/05/WRR_Animals.png/revision/latest/scale-to-width-down/700?cb=20171003093800",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/5/55/WR_icon.png/revision/latest?cb=20160304150124",
+        "Estacao": "Inverno ártico",
+        "KMQ": "21.8",
+        "Acres": "5387",
+        "AnimaisNaReserva": [
+            "Bisão",
+            "Alce",
+            "Urso Polar",
+            "Veado Sitka",
+            "Carneiro de Dall",
+            "Raposa do Ártico",
+            "Lebre Americana"
+        ],
+        "Mortes": [
+            "Hipotermia",
+            "Quedas",
+            "Alce",
+            "Bisão",
+            "Urso"
+        ]
+    },
+
+    "timbergold": {
+        "Cor": "#FFD700",
+        "Nome":"Timbergold Trails",
+        "Descricao": "O Vale Yukon é considerada o parque ecológico mais lindo do Planeta Terra, este paraíso fica no Canada!",
+        "Local": "Vale Yukon, Canada",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/0/02/TTAnimals.png/revision/latest/scale-to-width-down/700?cb=20170829144601",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/c/ce/TT_icon.png/revision/latest/scale-to-width-down/256?cb=20161019160631",
+        "Estacao": "Outono",
+        "KMQ": "21.3",
+        "Acres": "5263",
+        "AnimaisNaReserva": [
+            "Elk das Montanhas",
+            "Urso Cinzento",
+            "Veado Mula",
+            "Lobo Cinzento",
+            "Carneiro Selvagem",
+            "Lagópode de Cauda Branca",
+            "Lobisomem (Evento)"
+            ],
+            "Mortes": [
+                "Quedas",
+                "Lobisomem",
+                "Urso"
+            ]
+    },
+
+    "piccabeen": {
+        "Cor": "#556B2F",
+        "Nome":"Piccabeen Bay",
+        "Descricao": "A Australia sabe como demonstrar diversidade... Do deserto à costa tropical, a paleta de cores mudou, porém, os perigos continuaram!",
+        "Local": "Costa Tropical, Australia",
+        "Exclusivo": "Sim",
+        "MapaAnimais": "https://vignette.wikia.nocookie.net/thehuntergame/images/c/cd/PBAnimals.png/revision/latest/scale-to-width-down/800?cb=20180130204909",
+        "MapaIcone": "https://vignette.wikia.nocookie.net/thehuntergame/images/c/c3/PB_icon.png/revision/latest?cb=20171214133114",
+        "Estacao": "Verão",
+        "KMQ": "11.8",
+        "Acres" : "2916",
+        "AnimaisNaReserva": [
+            "Bufalo Asiático",
+            "Banteng",
+            "Veado Sambar",
+            "Veado Rusa",
+            "Porco Monteiro",
+            "Ganso Magpie"
+        ],
+        "Mortes": [
+            "Hipertermia",
+            "Sede",
+            "Búfalo-Euroásiatico",
+            "Porco-Monteiro",
+            "Banteng"
+        ]
+    }
+}
